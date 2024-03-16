@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  # gem "github-pages"
+  gem "github-pages"
   # gem "jekyll-github-metadata"
 end
 
@@ -37,4 +37,4 @@ gem "bundler", "~> 2.5"
 gem "rake", "~> 13.1"
 gem "appraisal", "~> 2.5"
 
-gem "jekyll", "~> 3.9"
+# gem "jekyll", "~> 3.9"
