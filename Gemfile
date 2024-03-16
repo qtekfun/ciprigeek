@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "github-pages"
+  # gem "github-pages"
   gem "jekyll-remote-theme"
 end
 
@@ -15,3 +15,8 @@ end
 
 gem "webrick", "~> 1.8"
 gem "faraday-retry", "~> 2.2"
+
+gem "jekyll-paginate", "~> 1.1"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "jekyll", "~> 3.9"
+gem "jekyll-sitemap", "~> 1.4"
