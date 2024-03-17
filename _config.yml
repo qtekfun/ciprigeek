@@ -26,7 +26,7 @@ author: Ciprigeek
 ###############################################
 
 navbar-links:
-  # Blog: "https://ciprigeek.com/blog"
+  Blog: "https://ciprigeek.com/blog"
   Recursos:
     - Ciprigeek en Youtube: "https://youtube.com/@ciprigeek"
     - Qtekfun: "https://qtekfun.com/"
@@ -227,7 +227,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -244,7 +244,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
