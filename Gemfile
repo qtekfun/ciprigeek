@@ -20,3 +20,5 @@ gem "jekyll-paginate", "~> 1.1"
 gem "kramdown-parser-gfm", "~> 1.1"
 gem "jekyll", "~> 3.9"
 gem "jekyll-sitemap", "~> 1.4"
+
+gem "wdm", "~> 0.1.1"
