@@ -52,7 +52,6 @@ round-avatar: true
 social-network-links:
   email: "ciprigeek@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  twitter: ciprigeek
   youtube: "@ciprigeek"
   instagram: ciprigeek
 
